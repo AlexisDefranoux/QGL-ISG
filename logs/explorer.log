@@ -1,0 +1,308 @@
+11:31:58.041 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.049 Explorer: org.json.JSONException: Missing value at 12 [character 9 line 2]
+11:31:58.049 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.049 Explorer: java.util.EmptyStackException
+11:31:58.057 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.169 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.169 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.169 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.173 Explorer: org.json.JSONException: Missing value at 12 [character 9 line 2]
+11:31:58.173 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.181 Explorer: org.json.JSONException: JSONObject["men"] is not an int.
+11:31:58.185 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.193 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.193 Explorer: java.util.EmptyStackException
+11:31:58.197 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.201 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.201 Explorer: org.json.JSONException: Missing value at 12 [character 9 line 2]
+11:31:58.205 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.205 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.209 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.213 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.217 Explorer: org.json.JSONException: JSONObject["budget"] is not an int.
+11:31:58.221 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.225 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.229 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.229 Explorer: java.util.EmptyStackException
+11:31:58.241 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.245 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.245 Explorer: java.util.EmptyStackException
+11:31:58.249 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.253 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.257 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.257 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.269 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:31:58.269 Explorer: org.json.JSONException: Missing value at 12 [character 9 line 2]
+11:32:00.537 Explorer: Initializing the Explorer
+11:32:00.537 Explorer: Contract: {"men": 12, "budget": 10000,"contracts": [ { "amount": 600, "resource": "WOOD" }, { "amount": 200, "resource": "GLASS" }], "heading": "W" }
+11:32:00.557 Explorer: 
+11:32:00.557 Explorer: Taking a decision now
+11:32:00.585 Explorer: Old phase : Initial echo. New phase : Search a direction
+11:32:00.585 Explorer: Action Echo : direction SOUTH
+11:32:00.585 Explorer: Error in acknowledgeResults : org.json.JSONException: Expected a ',' or '}' at 123 [character 3 line 9]
+11:32:00.589 Explorer: org.json.JSONTokener.syntaxError(JSONTokener.java:505)
+11:32:00.589 Explorer: org.json.JSONObject.<init>(JSONObject.java:263)
+11:32:00.589 Explorer: org.json.JSONObject.<init>(JSONObject.java:357)
+11:32:00.589 Explorer: fr.unice.polytech.si3.qgl.isg.Explorer.acknowledgeResults(Explorer.java:91)
+11:32:00.589 Explorer: fr.unice.polytech.si3.qgl.isg.Explorer$MockitoMock$1754166151.acknowledgeResults$accessor$51sbc0be(Unknown Source)
+11:32:00.589 Explorer: fr.unice.polytech.si3.qgl.isg.Explorer$MockitoMock$1754166151$auxiliary$OkA30Kzh.call(Unknown Source)
+11:32:00.589 Explorer: org.mockito.internal.invocation.RealMethod$FromCallable$1.call(RealMethod.java:40)
+11:32:00.589 Explorer: org.mockito.internal.invocation.RealMethod$FromBehavior.invoke(RealMethod.java:62)
+11:32:00.589 Explorer: org.mockito.internal.invocation.InterceptedInvocation.callRealMethod(InterceptedInvocation.java:127)
+11:32:00.589 Explorer: org.mockito.internal.stubbing.answers.CallsRealMethods.answer(CallsRealMethods.java:43)
+11:32:00.589 Explorer: org.mockito.Answers.answer(Answers.java:100)
+11:32:00.589 Explorer: org.mockito.internal.handler.MockHandlerImpl.handle(MockHandlerImpl.java:104)
+11:32:00.589 Explorer: org.mockito.internal.handler.NullResultGuardian.handle(NullResultGuardian.java:29)
+11:32:00.589 Explorer: org.mockito.internal.handler.InvocationNotifierHandler.handle(InvocationNotifierHandler.java:35)
+11:32:00.589 Explorer: org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.doIntercept(MockMethodInterceptor.java:63)
+11:32:00.589 Explorer: org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.doIntercept(MockMethodInterceptor.java:49)
+11:32:00.589 Explorer: org.mockito.internal.creation.bytebuddy.MockMethodInterceptor$DispatcherDefaultingToRealMethod.interceptSuperCallable(MockMethodInterceptor.java:110)
+11:32:00.593 Explorer: fr.unice.polytech.si3.qgl.isg.Explorer$MockitoMock$1754166151.acknowledgeResults(Unknown Source)
+11:32:00.593 Explorer: fr.unice.polytech.si3.qgl.isg.ExplorerTest.basicExplorer(ExplorerTest.java:20)
+11:32:00.593 Explorer: java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+11:32:00.593 Explorer: java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+11:32:00.593 Explorer: java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+11:32:00.593 Explorer: java.base/java.lang.reflect.Method.invoke(Method.java:564)
+11:32:00.593 Explorer: org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+11:32:00.593 Explorer: org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+11:32:00.593 Explorer: org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+11:32:00.593 Explorer: org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+11:32:00.593 Explorer: org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+11:32:00.593 Explorer: org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+11:32:00.593 Explorer: org.junit.runners.Suite.runChild(Suite.java:128)
+11:32:00.593 Explorer: org.junit.runners.Suite.runChild(Suite.java:27)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+11:32:00.593 Explorer: org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+11:32:00.597 Explorer: org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+11:32:00.597 Explorer: org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+11:32:00.597 Explorer: com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+11:32:00.597 Explorer: com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+11:32:00.597 Explorer: com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+11:32:00.597 Explorer: com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+11:32:00.681 Explorer: org.json.JSONException: JSONObject["cost"] is not an int.
+11:32:00.689 Explorer: Results Echo : found OUT_OF_RANGE, distance : 0
+11:32:00.709 Explorer: Results Echo : found OUT_OF_RANGE, distance : 0
+11:32:00.809 Explorer: Results Echo : found GROUND, distance : 1
+11:32:00.817 Explorer: Action Echo : direction NORTH
+11:32:00.817 Explorer: Action Echo : direction SOUTH
+11:32:00.901 Explorer: Results Exploit : amount 9
+11:32:00.905 Explorer: Action Exploit : resource WOOD
+11:32:00.909 Explorer: Action Exploit : resource FUR
+11:32:00.941 Explorer: Results Explore :
+11:32:00.941 Explorer: Resource(s) Resource: FUR, amount: HIGH, condition: FAIR
+11:32:00.941 Explorer: Resource(s) Resource: WOOD, amount: LOW, condition: HARSH
+11:32:00.949 Explorer: Creek(s) : 43e3eb42-50f0-47c5-afa3-16cd3d50faff
+11:32:00.973 Explorer: Results Explore :
+11:32:00.981 Explorer: Site(s) : 43e3eb42-50f0-47c5-afa3-16cd3d50faff
+11:32:00.993 Explorer: Results Explore :
+11:32:00.993 Explorer: Resource(s) Resource: FISH, amount: HIGH, condition: FAIR
+11:32:00.993 Explorer: Site(s) : 43e3eb42-50f0-47c5-afa3-16cd3d50faff
+11:32:01.005 Explorer: Results Explore :
+11:32:01.005 Explorer: Resource(s) Resource: FUR, amount: HIGH, condition: FAIR
+11:32:01.005 Explorer: Resource(s) Resource: WOOD, amount: LOW, condition: HARSH
+11:32:01.009 Explorer: Site(s) : 43e3eb42-50f0-47c5-afa3-16cd3d50faff
+11:32:01.013 Explorer: Action Explore
+11:32:01.021 Explorer: Results Explore :
+11:32:01.021 Explorer: Resource(s) Resource: FUR, amount: HIGH, condition: FAIR
+11:32:01.021 Explorer: Resource(s) Resource: WOOD, amount: LOW, condition: HARSH
+11:32:01.021 Explorer: Site(s) : 43e3eb42-50f0-47c5-afa3-16cd3d50faff
+11:32:01.053 Explorer: Action Fly
+11:32:01.065 Explorer: Action Glimpse : direction SOUTH, range 3
+11:32:01.069 Explorer: Results Glimpse : 
+11:32:01.073 Explorer: Distance 1  : OCEAN, 70.2%
+11:32:01.073 Explorer: Distance 1  : LAKE, 29.8%
+11:32:01.073 Explorer: Results Glimpse : 
+11:32:01.073 Explorer: Distance 1  : OCEAN, 40.65%
+11:32:01.073 Explorer: Distance 1  : BEACH, 59.35%
+11:32:01.073 Explorer: Distance 2  : OCEAN, 100.0%
+11:32:01.077 Explorer: Results Glimpse : 
+11:32:01.085 Explorer: Distance 1  : OCEAN, 40.65%
+11:32:01.085 Explorer: Distance 1  : BEACH, 59.35%
+11:32:01.085 Explorer: Distance 2  : OCEAN, 100.0%
+11:32:01.085 Explorer: Distance 3  : TAIGA, -1.0%
+11:32:01.085 Explorer: Distance 3  : TUNDRA, -1.0%
+11:32:01.089 Explorer: Results Glimpse : 
+11:32:01.089 Explorer: Distance 1  : OCEAN, 40.65%
+11:32:01.089 Explorer: Distance 1  : BEACH, 59.35%
+11:32:01.089 Explorer: Distance 2  : OCEAN, 100.0%
+11:32:01.089 Explorer: Distance 3  : TAIGA, -1.0%
+11:32:01.089 Explorer: Distance 3  : TUNDRA, -1.0%
+11:32:01.093 Explorer: Distance 4  : GLACIER, -1.0%
+11:32:01.097 Explorer: Action Glimpse : direction NORTH, range 4
+11:32:01.113 Explorer: Action Heading : direction NORTH
+11:32:01.113 Explorer: Action Heading : direction SOUTH
+11:32:01.125 Explorer: Action Land : creek creekId with 12 sailors
+11:32:01.125 Explorer: Action Land : creek creekId_2 with 42 sailors
+11:32:01.141 Explorer: Action Move : direction NORTH
+11:32:01.141 Explorer: Action Move : direction SOUTH
+11:32:01.153 Explorer: Results Scan :
+11:32:01.157 Explorer: Biomes : OCEAN
+11:32:01.161 Explorer: Biomes : BEACH
+11:32:01.161 Explorer: Site : 276bdc0a-5853-4325-8321-f62ab2d2b389
+11:32:01.173 Explorer: Results Scan :
+11:32:01.173 Explorer: Biomes : GLACIER
+11:32:01.173 Explorer: Biomes : ALPINE
+11:32:01.177 Explorer: Results Scan :
+11:32:01.177 Explorer: Biomes : OCEAN
+11:32:01.181 Explorer: Site : 276bdc0a-5853-4325-8321-f62ab2d2b389
+11:32:01.185 Explorer: Results Scan :
+11:32:01.185 Explorer: Biomes : MANGROVE
+11:32:01.185 Explorer: Biomes : BEACH
+11:32:01.189 Explorer: Site : 276bdc0a-5853-4325-8321-f62ab2d2b389
+11:32:01.197 Explorer: Results Scan :
+11:32:01.201 Explorer: Biomes : BEACH
+11:32:01.201 Explorer: Site : 276bdc0a-5853-4325-8321-f62ab2d2b389
+11:32:01.205 Explorer: Action Scan
+11:32:01.209 Explorer: Results Scan :
+11:32:01.213 Explorer: Biomes : MANGROVE
+11:32:01.213 Explorer: Biomes : BEACH
+11:32:01.213 Explorer: Results Scan :
+11:32:01.213 Explorer: Biomes : OCEAN
+11:32:01.213 Explorer: Biomes : MANGROVE
+11:32:01.213 Explorer: Creek : d51b00e3-c3bf-428c-87f4-716dcd4e3cc3
+11:32:01.225 Explorer: Results Scout : altitude 1, resources : [FUR, WOOD]
+11:32:01.257 Explorer: Results Scout : altitude 1, resources : [FISH]
+11:32:01.265 Explorer: Results Scout : altitude 1, resources : [FUR, WOOD, FISH]
+11:32:01.273 Explorer: Results Scout : altitude 1, resources : [FUR, WOOD, FISH]
+11:32:01.273 Explorer: Results Scout : altitude 1, resources : [FUR, WOOD, FISH]
+11:32:01.289 Explorer: Results Scout : altitude 1, resources : [FUR, FISH]
+11:32:01.305 Explorer: Results Scout : altitude 1, resources : [FUR, WOOD]
+11:32:01.317 Explorer: Action Scout : direction NORTH
+11:32:01.317 Explorer: Action Scout : direction SOUTH
+11:32:01.329 Explorer: Action Stop
+11:32:01.341 Explorer: Results Transform : GLASS: 5
+11:32:01.345 Explorer: Action Transform : resources {WOOD=3}
+11:32:01.349 Explorer: Action Transform : resources {QUARTZ=10, WOOD=5}
+11:32:01.357 Explorer: Results Scan :
+11:32:01.357 Explorer: Biomes : OCEAN
+11:32:01.357 Explorer: Site : 276bdc0a-5853-4325-8321-f62ab2d2b389
+11:32:01.369 Explorer: Results Echo : found GROUND, distance : 20
+11:32:01.369 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.413 Explorer: Error while computing lastScanOverOcean : java.lang.IndexOutOfBoundsException: Index -1 out-of-bounds for length 0
+11:32:01.437 Explorer: Error while computing goingRight : java.lang.IndexOutOfBoundsException: Index -3 out-of-bounds for length 0
+11:32:01.441 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -3 out-of-bounds for length 6
+11:32:01.445 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -2 out-of-bounds for length 6
+11:32:01.445 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -1 out-of-bounds for length 6
+11:32:01.485 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -3 out-of-bounds for length 6
+11:32:01.485 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -2 out-of-bounds for length 6
+11:32:01.485 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -1 out-of-bounds for length 6
+11:32:01.485 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -2 out-of-bounds for length 6
+11:32:01.497 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -3 out-of-bounds for length 6
+11:32:01.497 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -2 out-of-bounds for length 6
+11:32:01.497 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -1 out-of-bounds for length 6
+11:32:01.505 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.509 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.509 Explorer: Results Echo : found GROUND, distance : 20
+11:32:01.521 Explorer: Results Scan :
+11:32:01.521 Explorer: Biomes : TUNDRA
+11:32:01.525 Explorer: Site : 276bdc0a-5853-4325-8321-f62ab2d2b389
+11:32:01.533 Explorer: Drone position : 1, -1
+11:32:01.537 Explorer: Results Scan :
+11:32:01.541 Explorer: Biomes : BEACH
+11:32:01.541 Explorer: Creek : id
+11:32:01.541 Explorer: Site : id
+11:32:01.549 Explorer: Drone position : 0, 0
+11:32:01.557 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.557 Explorer: Drone position : 0, 0
+11:32:01.565 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.565 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.565 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.569 Explorer: Drone position : 1, 0
+11:32:01.573 Explorer: Drone position : 0, 0
+11:32:01.589 Explorer: Error while computing goingRight : java.lang.IndexOutOfBoundsException: Index -2 out-of-bounds for length 3
+11:32:01.613 Explorer: Error while computing shouldTurn : java.lang.IndexOutOfBoundsException: Index -3 out-of-bounds for length 3
+11:32:01.637 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.641 Explorer: Results Echo : found OUT_OF_RANGE, distance : 10
+11:32:01.645 Explorer: Results Echo : found OUT_OF_RANGE, distance : 10
+11:32:01.653 Explorer: Results Echo : found GROUND, distance : 1
+11:32:01.657 Explorer: Results Echo : found OUT_OF_RANGE, distance : 10
+11:32:01.657 Explorer: Results Echo : found GROUND, distance : 10
+11:32:01.741 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:32:01.749 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:32:01.753 Explorer: org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1]
+11:32:01.937 Explorer: Old phase : Initial land. New phase : Moving or exploring
+11:32:01.941 Explorer: Sailors cellPosition : 0, 0
+11:32:01.941 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5972d253
+11:32:01.941 Explorer: Resources inventory: []
+11:32:01.941 Explorer: Resources needed: {WOOD=2}
+11:32:01.941 Explorer: Manufactured inventory : []
+11:32:01.941 Explorer: Manufactured needed : {}
+11:32:01.949 Explorer: Old phase : Initial land. New phase : Moving or exploring
+11:32:01.949 Explorer: Sailors cellPosition : 0, 0
+11:32:01.949 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5b5c0057
+11:32:01.949 Explorer: Resources inventory: []
+11:32:01.949 Explorer: Resources needed: {WOOD=2}
+11:32:01.949 Explorer: Manufactured inventory : []
+11:32:01.949 Explorer: Manufactured needed : {}
+11:32:01.949 Explorer: Results Explore :
+11:32:01.949 Explorer: Resource(s) Resource: WOOD, amount: HIGH, condition: FAIR
+11:32:01.953 Explorer: Sailors cellPosition : 0, 0
+11:32:01.953 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5b5c0057
+11:32:01.953 Explorer: Resources inventory: []
+11:32:01.953 Explorer: Resources needed: {WOOD=2}
+11:32:01.953 Explorer: Manufactured inventory : []
+11:32:01.953 Explorer: Manufactured needed : {}
+11:32:01.953 Explorer: Old phase : Moving or exploring. New phase : Changing exploit zone
+11:32:01.961 Explorer: New zone to exploit, go on : 0, 1
+11:32:01.961 Explorer: Old phase : Changing exploit zone. New phase : Move between cells
+11:32:01.965 Explorer: Sailors cellPosition : 0, 0
+11:32:01.965 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5b5c0057
+11:32:01.965 Explorer: Resources inventory: []
+11:32:01.965 Explorer: Resources needed: {WOOD=2}
+11:32:01.965 Explorer: Manufactured inventory : []
+11:32:01.965 Explorer: Manufactured needed : {}
+11:32:01.965 Explorer: Sailors cellPosition : 0, 0
+11:32:01.965 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5b5c0057
+11:32:01.965 Explorer: Resources inventory: []
+11:32:01.965 Explorer: Resources needed: {WOOD=2}
+11:32:01.965 Explorer: Manufactured inventory : []
+11:32:01.965 Explorer: Manufactured needed : {}
+11:32:01.965 Explorer: Sailors cellPosition : 0, 1
+11:32:01.969 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5b5c0057
+11:32:01.969 Explorer: Resources inventory: []
+11:32:01.969 Explorer: Resources needed: {WOOD=2}
+11:32:01.969 Explorer: Manufactured inventory : []
+11:32:01.969 Explorer: Manufactured needed : {}
+11:32:01.969 Explorer: Old phase : Move between cells. New phase : Moving or exploring
+11:32:01.969 Explorer: Sailors cellPosition : 0, 1
+11:32:01.969 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5b5c0057
+11:32:01.969 Explorer: Resources inventory: []
+11:32:01.969 Explorer: Resources needed: {WOOD=2}
+11:32:01.969 Explorer: Manufactured inventory : []
+11:32:01.969 Explorer: Manufactured needed : {}
+11:32:01.969 Explorer: Sailors cellPosition : 0, 1
+11:32:01.969 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5b5c0057
+11:32:01.969 Explorer: Resources inventory: []
+11:32:01.969 Explorer: Resources needed: {WOOD=2}
+11:32:01.969 Explorer: Manufactured inventory : []
+11:32:01.969 Explorer: Manufactured needed : {}
+11:32:01.969 Explorer: Sailors cellPosition : 0, 1
+11:32:01.969 Explorer: Sailors subPosition : fr.unice.polytech.si3.qgl.isg.map.SailorsSubPosition@5b5c0057
+11:32:01.969 Explorer: Resources inventory: []
+11:32:01.969 Explorer: Resources needed: {WOOD=2}
+11:32:01.969 Explorer: Manufactured inventory : []
+11:32:01.969 Explorer: Manufactured needed : {}
+11:32:01.977 Explorer: Error while computing nearestFromCell: java.lang.IndexOutOfBoundsException: Index 0 out-of-bounds for length 0
+11:32:01.977 Explorer: No more resource area to exploit... :(
+11:32:01.985 Explorer: New zone to exploit, go on : 0, 0
+11:32:02.013 Explorer: Error in creekWithAllResourcesNeededAroundjava.util.NoSuchElementException
+11:32:02.021 Explorer: Error while computing nearestFromCell: java.lang.IndexOutOfBoundsException: Index 0 out-of-bounds for length 0
+11:32:02.037 Explorer: Error in creekWithAllResourcesNeededAroundjava.util.NoSuchElementException
+11:32:02.337 Explorer: Every subPosition of this Cell is visited.
+11:32:02.345 Explorer: Every subPosition of this Cell is visited.
+11:32:02.401 Explorer: Error while computing nearestFromCell: java.lang.IndexOutOfBoundsException: Index 0 out-of-bounds for length 0
+11:32:02.401 Explorer: No more adjacent while sorting the CellZone, sailors will need to walk.
+11:32:02.405 Explorer: Error while computing nearestFromCell: java.lang.IndexOutOfBoundsException: Index 0 out-of-bounds for length 0
+11:32:02.405 Explorer: cellZone or creek is empty
+11:32:02.405 Explorer: Error while computing nearestFromCell: java.lang.IndexOutOfBoundsException: Index 0 out-of-bounds for length 0
+11:32:02.405 Explorer: No more adjacent while sorting the CellZone, sailors will need to walk.
